@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cherries-test/static/css/main.584f321a.chunk.css",
+    "main.css": "/cherries-test/static/css/main.6678a001.chunk.css",
     "main.js": "/cherries-test/static/js/main.ce760c1b.chunk.js",
     "main.js.map": "/cherries-test/static/js/main.ce760c1b.chunk.js.map",
     "runtime~main.js": "/cherries-test/static/js/runtime~main.ad32530a.js",
@@ -8,9 +8,9 @@
     "static/js/2.b41502e9.chunk.js": "/cherries-test/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/cherries-test/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/cherries-test/index.html",
-    "precache-manifest.53a1ea78d14e87cafd4848e6313a2b9b.js": "/cherries-test/precache-manifest.53a1ea78d14e87cafd4848e6313a2b9b.js",
+    "precache-manifest.60dd265f34729055c271fc260b809109.js": "/cherries-test/precache-manifest.60dd265f34729055c271fc260b809109.js",
     "service-worker.js": "/cherries-test/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/cherries-test/static/css/main.584f321a.chunk.css.map",
+    "static/css/main.6678a001.chunk.css.map": "/cherries-test/static/css/main.6678a001.chunk.css.map",
     "static/media/logo.svg": "/cherries-test/static/media/logo.5d5d9eef.svg"
   }
 }
