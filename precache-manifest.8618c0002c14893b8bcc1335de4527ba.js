@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75a41d2add1b96f00769396ee88f3ffa",
+    "revision": "048ff011555c8c385b6f204f36041475",
     "url": "/cherries-test/index.html"
   },
   {
-    "revision": "d6a4924b7b84f2e292a7",
-    "url": "/cherries-test/static/css/main.6678a001.chunk.css"
+    "revision": "cdcbd2292f28aa2047f6",
+    "url": "/cherries-test/static/css/main.7a82d7f4.chunk.css"
   },
   {
     "revision": "2e0129063922e3bb197a",
     "url": "/cherries-test/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "d6a4924b7b84f2e292a7",
+    "revision": "cdcbd2292f28aa2047f6",
     "url": "/cherries-test/static/js/main.ce760c1b.chunk.js"
   },
   {
