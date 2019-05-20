@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cherries-test/static/css/main.7a82d7f4.chunk.css",
-    "main.js": "/cherries-test/static/js/main.93ba28f6.chunk.js",
-    "main.js.map": "/cherries-test/static/js/main.93ba28f6.chunk.js.map",
+    "main.js": "/cherries-test/static/js/main.62d74a3c.chunk.js",
+    "main.js.map": "/cherries-test/static/js/main.62d74a3c.chunk.js.map",
     "runtime~main.js": "/cherries-test/static/js/runtime~main.ad32530a.js",
     "runtime~main.js.map": "/cherries-test/static/js/runtime~main.ad32530a.js.map",
-    "static/js/2.43596f49.chunk.js": "/cherries-test/static/js/2.43596f49.chunk.js",
-    "static/js/2.43596f49.chunk.js.map": "/cherries-test/static/js/2.43596f49.chunk.js.map",
+    "static/js/2.c6dc74aa.chunk.js": "/cherries-test/static/js/2.c6dc74aa.chunk.js",
+    "static/js/2.c6dc74aa.chunk.js.map": "/cherries-test/static/js/2.c6dc74aa.chunk.js.map",
     "index.html": "/cherries-test/index.html",
-    "precache-manifest.31e862f3e8d66e9aa1781ffee1f8be77.js": "/cherries-test/precache-manifest.31e862f3e8d66e9aa1781ffee1f8be77.js",
+    "precache-manifest.ccdd48785ca75ede5f91ccf0dcd7578d.js": "/cherries-test/precache-manifest.ccdd48785ca75ede5f91ccf0dcd7578d.js",
     "service-worker.js": "/cherries-test/service-worker.js",
     "static/css/main.7a82d7f4.chunk.css.map": "/cherries-test/static/css/main.7a82d7f4.chunk.css.map",
     "static/media/logo.svg": "/cherries-test/static/media/logo.5d5d9eef.svg"
