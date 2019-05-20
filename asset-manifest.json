@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cherries-test/static/css/main.7a82d7f4.chunk.css",
-    "main.js": "/cherries-test/static/js/main.9f7dfb9e.chunk.js",
-    "main.js.map": "/cherries-test/static/js/main.9f7dfb9e.chunk.js.map",
+    "main.js": "/cherries-test/static/js/main.1644e2ce.chunk.js",
+    "main.js.map": "/cherries-test/static/js/main.1644e2ce.chunk.js.map",
     "runtime~main.js": "/cherries-test/static/js/runtime~main.ad32530a.js",
     "runtime~main.js.map": "/cherries-test/static/js/runtime~main.ad32530a.js.map",
     "static/js/2.e08a5cd1.chunk.js": "/cherries-test/static/js/2.e08a5cd1.chunk.js",
     "static/js/2.e08a5cd1.chunk.js.map": "/cherries-test/static/js/2.e08a5cd1.chunk.js.map",
     "index.html": "/cherries-test/index.html",
-    "precache-manifest.ff5509f58c0ea3cf22d299f5600ac95e.js": "/cherries-test/precache-manifest.ff5509f58c0ea3cf22d299f5600ac95e.js",
+    "precache-manifest.119fa89916b14012c49d172ca437b679.js": "/cherries-test/precache-manifest.119fa89916b14012c49d172ca437b679.js",
     "service-worker.js": "/cherries-test/service-worker.js",
     "static/css/main.7a82d7f4.chunk.css.map": "/cherries-test/static/css/main.7a82d7f4.chunk.css.map",
     "static/media/logo.svg": "/cherries-test/static/media/logo.5d5d9eef.svg"
